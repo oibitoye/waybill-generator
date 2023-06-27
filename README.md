@@ -1,0 +1,10 @@
+# waybill-generator
+
+
+Create a .env file using the sample .env.dist file and modify the following as required:
+REACT_APP_API_BASE_URL=http://[backend_ip].73:5700/api
+REACT_APP_API_QR_URL=http://[frontend_ip]:7333/waybill/view
+REACT_APP_PORT=[port]
+REACT_APP_SECRET_KEY=[secret_characters]
+REACT_APP_MONGO_URL=mongodb://[mongodb_ip]:27017/waybill
+REACT_APP_FIRST_USER={"username": "[username]", "firstName": "[FirstName]", "lastName": "{LastName}", "password": "[Password]", "role": 4}

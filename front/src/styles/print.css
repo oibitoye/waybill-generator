@@ -1,0 +1,21 @@
+@media print {
+    /* Set page size to A4 */
+    @page {
+      size: A4;
+      margin: 0;
+    }
+  
+    /* Set margins for content */
+    body {
+      margin: 20mm; /* Adjust margins as needed */
+    }
+  
+    /* Adjust font size, line height, and other styles as needed */
+    /* For example: */
+    p {
+      font-size: 12px;
+      line-height: 1.2;
+      /* Add other styles as needed */
+    }
+  }
+  

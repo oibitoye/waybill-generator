@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Crash Numbering Serif';
+    src: url('./CrashNumberingSerif.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+  
+@font-face {
+    font-family: 'DK Trashtype';
+    src: url('./Dktrashtype-RXqo.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
